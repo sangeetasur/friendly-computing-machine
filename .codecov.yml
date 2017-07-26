@@ -1,5 +1,7 @@
 comment:
   layout: header, changes, diff
+codecov:
+  token: 2b09dcac-61a8-41ab-b2dd-7940dbe4ea21
 coverage:
   ignore:
     - test/.*
